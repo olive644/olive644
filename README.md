@@ -1,5 +1,5 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=9ece9e&section=header&reversal=false"/>
-<br>
+
+
 <div align="center">
    <img align="center" height="150" src="https://i.ibb.co/KxrXfShQ/Whats-App-Image-2026-07-12-at-15-33-24-removebg-preview.png" />
 </div>
