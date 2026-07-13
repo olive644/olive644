@@ -70,8 +70,8 @@
   
 [![Gmail](https://img.shields.io/badge/Gmail-dd4b40?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:oliverteixeira122020@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-ff3d7c?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/oliasmatico/?next=%2F)
-  [![Linkedin](https://img.shields.io/badge/LinkedIn-007ab9?style=for-the-badge&logo=linkedin&logoColor=fff)](www.linkedin.com/in/josé-gilson-8a0482393)
-  [![Carrd](https://img.shields.io/badge/Carrd.co-6c5ce7?style=for-the-badge&logo=carrd&logoColor=fff)](https://olive644.carrd.co//)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-007ab9?style=for-the-badge&logo=linkedin&logoColor=fff)](www.linkedin.com/in/josé-gilson-8a0482393)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=fff)](https://portfolio-oli-phi.vercel.app/)
   
 </div>
 
